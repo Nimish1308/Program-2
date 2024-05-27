@@ -1,0 +1,140 @@
+.sample
+{
+   background-color: orange;
+   width: 200px;
+   height: 200px;
+   border: 15px solid black;
+    padding: 35px;
+    margin: 30px;
+}
+
+hr{
+    border: 2px solid black;
+}
+
+img{
+   width: 50%;
+
+}
+
+
+.b1
+{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+
+}
+
+.b2
+{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+
+} 
+
+.b3
+{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+
+}
+
+.f1
+{
+    background-color: palevioletred;
+    width: 150px;
+    height: 150px;
+    position: fixed;
+}
+
+.black
+{
+    width:150px;
+    height: 400px;
+}
+
+.s1
+{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    position: static;
+
+}
+
+.s2
+{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    position: static;
+}
+
+.s3
+{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    position: static;
+}
+
+.r1
+{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    position: relative;
+
+}
+
+.r2
+{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left:150px;
+}
+
+.r3
+{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 300px;
+
+}
+
+.a1
+{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    
+
+}
+
+.a2
+{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    position:absolute;
+    left: 90px;
+}
+
+.a3
+{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+  
+
+}
